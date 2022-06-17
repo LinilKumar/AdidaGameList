@@ -1,0 +1,1402 @@
+[
+
+	{
+	  "ADIGAMID_00001": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 1
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/T/temple-run-2-150x150.jpg\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Temple Run 2\"",
+          "GPGLK": "\"https://adidagames.com/puzzles/temple-run-2/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00002": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 2
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamepix/G/gemcrafter.png\"",
+          "GMCATY": "\"Board Game\"",
+          "GOFNM": "\"Gemcrafter\"",
+          "GPGLK": "\"https://adidagames.com/puzzles/gemcrafter/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00003": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 3
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/D/dungeonro-150x150.jpg\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Dungeon.ro\"",
+          "GPGLK": "\"https://adidagames.com/education/dungeon-ro/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00004": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 4
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/S/skate-hooligans-150x150.jpg\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Skate Hooligans\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/skate-hooligans/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00005": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 5
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/M/masha-and-the-bear-hidden-stars-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Masha and the Bear Hidden Stars\"",
+          "GPGLK": "\"https://adidagames.com/education/masha-and-the-bear-hidden-stars/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00006": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 6
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamepix/D/dark-lands.png\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Dark Lands\"",
+          "GPGLK": "\"https://adidagames.com/adventure/dark-lands/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00007": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 7
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamepix/B/badland.png\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Badland\"",
+          "GPGLK": "\"https://adidagames.com/adventure/badland/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00008": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 8
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/famobi/M/maze.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Maze\"",
+          "GPGLK": "\"https://adidagames.com/puzzles/maze/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00009": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 9
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/R/real-bottle-shooting-game-2020-150x150.jpg\"",
+          "GMCATY": "\"Shooting\"",
+          "GOFNM": "\"Real Bottle Shooting Game 2020\"",
+          "GPGLK": "\"https://adidagames.com/most-played/real-bottle-shooting-game-2020/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00010": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 10
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/iframe/D/dr-parking-150x135.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Dr. Parking\"",
+          "GPGLK": "\"https://adidagames.com/driving/dr-parking/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00011": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 11
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/B/bubble-shooter-candies-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Bubble Shooter Candies\"",
+          "GPGLK": "\"https://adidagames.com/action/bubble-shooter-candies/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00012": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 12
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/T/triangle-toss-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Triangle Toss\"",
+          "GPGLK": "\"https://adidagames.com/action/triangle-toss/\""
+        }
+     }
+	},
+	{
+      "ADIGAMID_00013": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 13
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamepix/B/beauty-cat-salon-150x150.png\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Beauty Cat Salon\"",
+          "GPGLK": "\"https://adidagames.com/other/beauty-cat-salon/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00014": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 14
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/L/ludo-wizard-150x150.jpg\"",
+          "GMCATY": "\"Board Game\"",
+          "GOFNM": "\"Ludo Wizard\"",
+          "GPGLK": "\"https://adidagames.com/multiplayer/ludo-wizard/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00015": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 15
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/famobi/E/euro-penalty-cup-2021.jpg\"",
+          "GMCATY": "\"Sports\"",
+          "GOFNM": "\"Euro Penalty Cup 2021\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/euro-penalty-cup-2021/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00016": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 16
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/C/clash-of-orcs-150x150.jpg\"",
+          "GMCATY": "\"Defense\"",
+          "GOFNM": "\"Clash Of Orcs\"",
+          "GPGLK": "\"https://adidagames.com/sports/clash-of-orcs/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00017": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 17
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/H/hill-race-adventure-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Hill Race Adventure\"",
+          "GPGLK": "\"https://adidagames.com/action/hill-race-adventure/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00018": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 18
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/fly-car-stunt-5-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Fly Car Stunt 5\"",
+          "GPGLK": "\"https://adidagames.com/driving/fly-car-stunt-5/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00019": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 19
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/B/battle-of-orcs-150x150.jpg\"",
+          "GMCATY": "\"Defense\"",
+          "GOFNM": "\"Battle of Orcs\"",
+          "GPGLK": "\"https://adidagames.com/most-played/battle-of-orcs/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00020": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 20
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/iframe/A/among-rescue-150x135.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Among Rescue\"",
+          "GPGLK": "\"https://adidagames.com/education/among-rescue/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00021": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 21
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/W/wheres-my-ruffled-bird-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Where’s my ruffled bird?\"",
+          "GPGLK": "\"https://adidagames.com/education/wheres-my-ruffled-bird/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00022": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 22
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/W/wizard-vs-orcs-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Wizard Vs Orcs\"",
+          "GPGLK": "\"https://adidagames.com/action/wizard-vs-orcs/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00023": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 23
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/A/ancient-2048-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Ancient 2048\"",
+          "GPGLK": "\"https://adidagames.com/education/ancient-2048/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00024": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 24
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/pixel-world-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Pixel World\"",
+          "GPGLK": "\"https://adidagames.com/education/pixel-world/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00025": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 25
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/O/offroad-racing-2d-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Offroad Racing 2D\"",
+          "GPGLK": "\"https://adidagames.com/driving/offroad-racing-2d/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00026": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 26
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/G/gems-shooter-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Gems Shooter\"",
+          "GPGLK": "\"https://adidagames.com/action/gems-shooter/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00027": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 27
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/C/candy-and-monsters-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Candy And Monsters\"",
+          "GPGLK": "\"https://adidagames.com/education/candy-and-monsters/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00028": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 28
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/W/weapon-strike-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Weapon Strike\"",
+          "GPGLK": "\"https://adidagames.com/arcade/weapon-strike/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00029": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 29
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/G/gravity-aliens-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Gravity Aliens\"",
+          "GPGLK": "\"https://adidagames.com/education/gravity-aliens/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00030": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 30
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/H/hill-climb-moto-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Hill Climb Moto\"",
+          "GPGLK": "\"https://adidagames.com/driving/hill-climb-moto/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00031": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 31
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/frozen-ice-cream-maker-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Frozen Ice Cream Maker\"",
+          "GPGLK": "\"https://adidagames.com/action/frozen-ice-cream-maker/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00032": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 32
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/J/jelly-ninja-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Jelly Ninja\"",
+          "GPGLK": "\"https://adidagames.com/most-played/jelly-ninja/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00033": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 33
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/A/assault-bots-150x150.jpg\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Assault Bots\"",
+          "GPGLK": "\"https://adidagames.com/action/assault-bots/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00034": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 34
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/fried-noodles-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Fried Noodles\"",
+          "GPGLK": "\"https://adidagames.com/action/fried-noodles/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00035": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 35
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/E/extreme-fighters-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Extreme Fighters\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/extreme-fighters/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00036": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 36
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/S/space-shooter-z-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Space Shooter Z\"",
+          "GPGLK": "\"https://adidagames.com/education/space-shooter-z/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00037": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 37
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamepix/R/runaway-toad.png\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Runaway Toad\"",
+          "GPGLK": "\"https://adidagames.com/adventure/runaway-toad/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00038": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 38
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/famobi/G/giant-2048.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Giant 2048\"",
+          "GPGLK": "\"https://adidagames.com/education/giant-2048/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00039": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 39
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/M/mini-golf-adventure-150x150.jpg\"",
+          "GMCATY": "\"Sports\"",
+          "GOFNM": "\"Mini Golf Adventure\"",
+          "GPGLK": "\"https://adidagames.com/sports/mini-golf-adventure/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00040": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 40
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/A/aquaform-marinett-and-friends-150x150.jpg\"",
+          "GMCATY": "\"Dress-Up\"",
+          "GOFNM": "\"Aquaform Marinett and Friends\"",
+          "GPGLK": "\"https://adidagames.com/action/aquaform-marinett-and-friends/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00041": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 41
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/W/wild-wolf-hunter-150x150.jpg\"",
+          "GMCATY": "\"Shooting\"",
+          "GOFNM": "\"Wild Wolf Hunter\"",
+          "GPGLK": "\"https://adidagames.com/most-played/wild-wolf-hunter/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00042": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 42
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/D/dunk-down-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Dunk Down\"",
+          "GPGLK": "\"https://adidagames.com/sports/dunk-down/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00043": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 43
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/B/bubble-cave-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Bubble Cave\"",
+          "GPGLK": "\"https://adidagames.com/education/bubble-cave/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00044": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 44
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/fruit-cutting-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Fruit Cutting\"",
+          "GPGLK": "\"https://adidagames.com/education/fruit-cutting/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00045": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 45
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/football-flick-150x150.jpg\"",
+          "GMCATY": "\"Sports\"",
+          "GOFNM": "\"Football Flick\"",
+          "GPGLK": "\"https://adidagames.com/sports/football-flick/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00046": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 46
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/famobi/T/train-2048.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Train 2048\"",
+          "GPGLK": "\"https://adidagames.com/education/train-2048/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00047": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 47
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/K/knot-logical-game-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Knot Logical Game\"",
+          "GPGLK": "\"https://adidagames.com/education/knot-logical-game/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00048": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 48
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/S/supra-racing-speed-turbo-drift-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Supra Racing Speed Turbo Drift\"",
+          "GPGLK": "\"https://adidagames.com/driving/supra-racing-speed-turbo-drift/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00049": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 49
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/R/red-hands-2-players-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Red Hands – 2 Players\"",
+          "GPGLK": "\"https://adidagames.com/action/red-hands-2-players/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00050": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 50
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/B/bunny-punch-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Bunny Punch\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/bunny-punch/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00051": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 51
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/I/isometric-cube-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Isometric Cube\"",
+          "GPGLK": "\"https://adidagames.com/education/isometric-cube/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00052": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 52
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/H/homescapes-150x150.jpg\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Homescapes\"",
+          "GPGLK": "\"https://adidagames.com/action/homescapes/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00053": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 53
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/G/golden-snake-demo-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Golden Snake – demo\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/golden-snake-demo/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00054": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 54
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/D/deadswitch-3-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Deadswitch 3\"",
+          "GPGLK": "\"https://adidagames.com/multiplayer/deadswitch-3/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00055": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 55
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/S/stag-hunter-150x150.jpg\"",
+          "GMCATY": "\"Shooting\"",
+          "GOFNM": "\"Stag Hunter\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/stag-hunter/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00056": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 56
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/pizza-delivery-puzzles-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Pizza Delivery Puzzles\"",
+          "GPGLK": "\"https://adidagames.com/education/pizza-delivery-puzzles/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00057": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 57
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamepix/J/jewel-explode.png\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Jewel Explode\"",
+          "GPGLK": "\"https://adidagames.com/puzzles/jewel-explode/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00058": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 58
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/L/lobster-jump-adventure-150x150.jpg\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Lobster Jump Adventure\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/lobster-jump-adventure/\""
+        }
+      },
+      "ADIGAMID_00059": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 59
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/M/mega-tank-wars-arena-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Mega Tank Wars Arena\"",
+          "GPGLK": "\"https://adidagames.com/education/mega-tank-wars-arena/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00060": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 60
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/A/air-combat-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Air Combat\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/air-combat/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00061": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 61
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/N/no-driver-parking-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"No Driver Parking\"",
+          "GPGLK": "\"https://adidagames.com/driving/no-driver-parking/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00062": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 62
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/H/happy-glass-game-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Happy Glass Game\"",
+          "GPGLK": "\"https://adidagames.com/education/happy-glass-game/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00063": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 63
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/flappy-dragon-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Flappy Dragon\"",
+          "GPGLK": "\"https://adidagames.com/arcade/flappy-dragon/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00064": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 64
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/O/outofmiind-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"OutOfMiind\"",
+          "GPGLK": "\"https://adidagames.com/education/outofmiind/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00065": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 65
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/B/blocks-sliding-tetriz-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Blocks Sliding Tetriz\"",
+          "GPGLK": "\"https://adidagames.com/education/blocks-sliding-tetriz/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00066": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 66
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/M/minimissions-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"MiniMissions\"",
+          "GPGLK": "\"https://adidagames.com/arcade/minimissions/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00067": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 67
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/B/bloody-archers-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Bloody Archers\"",
+          "GPGLK": "\"https://adidagames.com/sports/bloody-archers/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00068": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 68
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/pink-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"PinK\"",
+          "GPGLK": "\"https://adidagames.com/education/pink/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00069": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 69
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/B/bullet-master-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Bullet Master\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/bullet-master/\""
+        }
+     }
+	},
+	{
+      "ADIGAMID_00070": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 70
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/S/stack-ball-3-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Stack Ball 3\"",
+          "GPGLK": "\"https://adidagames.com/arcade/stack-ball-3/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00071": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 71
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/E/elevator-breaking-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Elevator Breaking\"",
+          "GPGLK": "\"https://adidagames.com/education/elevator-breaking/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00072": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 72
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/D/dino-run-adventure-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Dino Run Adventure\"",
+          "GPGLK": "\"https://adidagames.com/most-played/dino-run-adventure/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00073": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 73
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/W/wobble-boss-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Wobble Boss\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/wobble-boss/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00074": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 74
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/T/tulip-back-to-home-150x150.jpg\"",
+          "GMCATY": "\"Dress-Up\"",
+          "GOFNM": "\"Tulip Back To Home\"",
+          "GPGLK": "\"https://adidagames.com/action/tulip-back-to-home/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00075": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 75
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/G/gtr-drift-stunt-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"GTR Drift & Stunt\"",
+          "GPGLK": "\"https://adidagames.com/driving/gtr-drift-stunt/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00076": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 76
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/flappy-pig-150x150.jpg\"",
+          "GMCATY": "\"Adventure\"",
+          "GOFNM": "\"Flappy Pig\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/flappy-pig/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00077": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 77
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/parking-draw-master-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Parking Draw Master\"",
+          "GPGLK": "\"https://adidagames.com/arcade/parking-draw-master/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00078": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 78
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/D/dangerous-spikes-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Dangerous Spikes\"",
+          "GPGLK": "\"https://adidagames.com/education/dangerous-spikes/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00079": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 79
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/iframe/P/pencil-rush-3d-150x135.jpg\"",
+          "GMCATY": "\"Education\"",
+          "GOFNM": "\"Pencil Rush 3d\"",
+          "GPGLK": "\"https://adidagames.com/most-played/pencil-rush-3d/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00080": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 80
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/iframe/S/super-bullet-bender-150x135.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Super Bullet Bender\"",
+          "GPGLK": "\"https://adidagames.com/shooting/super-bullet-bender/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00081": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 81
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/C/crowd-city-3d-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Crowd City 3D\"",
+          "GPGLK": "\"https://adidagames.com/other/crowd-city-3d/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00082": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 82
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/M/math-duel-2-players-150x150.jpg\"",
+          "GMCATY": "\"Education\"",
+          "GOFNM": "\"Math Duel – 2 Players\"",
+          "GPGLK": "\"https://adidagames.com/education/math-duel-2-players/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00083": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 83
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/popcorn-show-150x150.jpg\"",
+          "GMCATY": "\"Dress-Up\"",
+          "GOFNM": "\"Popcorn Show\"",
+          "GPGLK": "\"https://adidagames.com/education/popcorn-show/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00084": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 84
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/F/foot-treatment-150x150.jpg\"",
+          "GMCATY": "\"Dress-Up\"",
+          "GOFNM": "\"Foot Treatment\"",
+          "GPGLK": "\"https://adidagames.com/education/foot-treatment/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00085": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 85
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/C/car-crash-party-lite-150x150.jpg\"",
+          "GMCATY": "\"Multiplayer\"",
+          "GOFNM": "\"Car Crash Party - LITE\"",
+          "GPGLK": "\"https://adidagames.com/multiplayer/car-crash-party-lite/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00086": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 86
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/E/extreme-ball-games-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Extreme Ball Games\"",
+          "GPGLK": "\"https://adidagames.com/other/extreme-ball-games/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00087": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 87
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/C/connect-the-jelly-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Connect The Jelly\"",
+          "GPGLK": "\"https://adidagames.com/education/connect-the-jelly/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00088": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 88
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/S/smoothie-150x150.jpg\"",
+          "GMCATY": "\"Dress-Up\"",
+          "GOFNM": "\"Smoothie\"",
+          "GPGLK": "\"https://adidagames.com/most-played/smoothie/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00089": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 89
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/push-the-block-150x150.jpg\"",
+          "GMCATY": "\"Puzzles\"",
+          "GOFNM": "\"Push the block\"",
+          "GPGLK": "\"https://adidagames.com/education/push-the-block/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00090": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 90
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/S/sports-car-wash-2d-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Sports Car Wash 2D\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/sports-car-wash-2d/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00091": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 91
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/M/millionaire-best-quiz-150x150.jpg\"",
+          "GMCATY": "\"Education\"",
+          "GOFNM": "\"Millionaire – Best Quiz\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/millionaire-best-quiz/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00092": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 92
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/pill-volley-beach-150x150.jpg\"",
+          "GMCATY": "\"Sports\"",
+          "GOFNM": "\"Pill Volley Beach\"",
+          "GPGLK": "\"https://adidagames.com/sports/pill-volley-beach/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00093": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 93
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/L/lamborghini-aventador-simulator-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Lamborghini Aventador Simulator\"",
+          "GPGLK": "\"https://adidagames.com/multiplayer/lamborghini-aventador-simulator/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00094": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 94
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/H/highway-drive-2d-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Highway Drive 2D\"",
+          "GPGLK": "\"https://adidagames.com/driving/highway-drive-2d/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00095": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 95
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/P/pretty-cure-3-150x150.jpg\"",
+          "GMCATY": "\"Dress-Up\"",
+          "GOFNM": "\"Pretty Cure 3\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/pretty-cure-3/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00096": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 96
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/D/doodle-jump-150x150.jpg\"",
+          "GMCATY": "\"Education\"",
+          "GOFNM": "\"Doodle Jump\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/doodle-jump/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00097": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 97
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/C/cerkio-150x150.jpg\"",
+          "GMCATY": "\"Arcade\"",
+          "GOFNM": "\"Cerkio\"",
+          "GPGLK": "\"https://adidagames.com/uncategorized/cerkio/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00098": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 98
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamearter/T/top-speed-2-150x150.jpg\"",
+          "GMCATY": "\"Driving\"",
+          "GOFNM": "\"Top Speed 2\"",
+          "GPGLK": "\"https://adidagames.com/driving/top-speed-2/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00099": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 99
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/V/vex-5-online-150x150.jpg\"",
+          "GMCATY": "\"Action\"",
+          "GOFNM": "\"Vex 5 Online\"",
+          "GPGLK": "\"https://adidagames.com/education/vex-5-online/\""
+        }
+      }
+	},
+	{
+      "ADIGAMID_00100": {
+        "GmBaSetigi": {
+          "GPLCG": 0,
+          "GPRTY": 100
+        },
+        "GmBaaisiDtlsi": {
+          "GCIMGURL": "\"https://adidagames.com/wp-content/uploads/thumbs/gamemonetize/W/what-is-wrong-150x150.jpg\"",
+          "GMCATY": "\"Education\"",
+          "GOFNM": "\"What Is Wrong\"",
+          "GPGLK": "\"https://adidagames.com/education/what-is-wrong/\""
+        }
+      }
+	}
+	 
+]
